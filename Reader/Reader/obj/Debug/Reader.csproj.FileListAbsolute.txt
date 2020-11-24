@@ -1,0 +1,20 @@
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Reader\Reader\obj\Debug\Reader.csprojAssemblyReference.cache
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Reader\Reader\obj\Debug\Reader.ReaderForm.resources
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Reader\Reader\obj\Debug\Reader.Properties.Resources.resources
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Reader\Reader\obj\Debug\Reader.csproj.GenerateResource.cache
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Reader\Reader\obj\Debug\Reader.csproj.CoreCompileInputs.cache
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Reader\Reader\bin\Debug\Reader.exe.config
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Reader\Reader\bin\Debug\Reader.exe
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Reader\Reader\bin\Debug\Reader.pdb
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Reader\Reader\obj\Debug\Reader.exe
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Reader\Reader\obj\Debug\Reader.pdb
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Reader\Reader\bin\Debug\Reader.exe.config
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Reader\Reader\bin\Debug\Reader.exe
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Reader\Reader\bin\Debug\Reader.pdb
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Reader\Reader\obj\Debug\Reader.csprojAssemblyReference.cache
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Reader\Reader\obj\Debug\Reader.ReaderForm.resources
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Reader\Reader\obj\Debug\Reader.Properties.Resources.resources
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Reader\Reader\obj\Debug\Reader.csproj.GenerateResource.cache
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Reader\Reader\obj\Debug\Reader.csproj.CoreCompileInputs.cache
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Reader\Reader\obj\Debug\Reader.exe
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Reader\Reader\obj\Debug\Reader.pdb

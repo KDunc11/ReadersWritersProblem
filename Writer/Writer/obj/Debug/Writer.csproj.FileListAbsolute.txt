@@ -1,0 +1,20 @@
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Writer\Writer\obj\Debug\Writer.csprojAssemblyReference.cache
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Writer\Writer\obj\Debug\Writer.WriterForm.resources
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Writer\Writer\obj\Debug\Writer.Properties.Resources.resources
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Writer\Writer\obj\Debug\Writer.csproj.GenerateResource.cache
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Writer\Writer\obj\Debug\Writer.csproj.CoreCompileInputs.cache
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Writer\Writer\bin\Debug\Writer.exe.config
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Writer\Writer\bin\Debug\Writer.exe
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Writer\Writer\bin\Debug\Writer.pdb
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Writer\Writer\obj\Debug\Writer.exe
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Writer\Writer\obj\Debug\Writer.pdb
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Writer\Writer\bin\Debug\Writer.exe.config
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Writer\Writer\bin\Debug\Writer.exe
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Writer\Writer\bin\Debug\Writer.pdb
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Writer\Writer\obj\Debug\Writer.csprojAssemblyReference.cache
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Writer\Writer\obj\Debug\Writer.WriterForm.resources
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Writer\Writer\obj\Debug\Writer.Properties.Resources.resources
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Writer\Writer\obj\Debug\Writer.csproj.GenerateResource.cache
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Writer\Writer\obj\Debug\Writer.csproj.CoreCompileInputs.cache
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Writer\Writer\obj\Debug\Writer.exe
+C:\Users\kyled\Desktop\NNU\Fall 2020\Operating Systems\Readers Writers Project\Writer\Writer\obj\Debug\Writer.pdb
